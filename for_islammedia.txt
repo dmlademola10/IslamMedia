@@ -1,0 +1,18 @@
+Minimum age for IslamMedia membership - 10 years.
+Alert user that his/her session has expired if anything goes wrong with the session and ask to login in another page
+use prepared statements for all sort of query
+learn SELECT prepared statements (XXXXXXXXXXXXXXXXXXX)
+create admin features
+create an error manager table that can be accessed only be the admins.
+create cookies for signup attempt and signin attempt.
+remember to check telephone number characters to make sure they are numbers and not any other type of data
+remember to send error as mail to admin if database doesn't connect
+learn about repeating linear gradient and repeating radial gradient
+add religion to database
+midnightblue for darkmode
+
+Search for '$sql' in all files and replace them with the prepared statement
+
+
+
+install virtualenv

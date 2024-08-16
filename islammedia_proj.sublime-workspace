@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"_SE",
+				"_SESSION"
+			],
+			[
+				"sess",
+				"sess_user"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"bore",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"bac",
+				"background-attachment\tproperty"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Bas",
+				"BaseHTTPRequestHandler"
+			],
+			[
+				"b",
+				"body\tTag"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/IslamMedia/backup/sql_tables_and_databasesssssssss/users.sql",
+		"/C/xampp/htdocs/IslamMedia/backup/backup_users.sql",
+		"/C/xampp/htdocs/IslamMedia/search.php",
+		"/C/xampp/htdocs/IslamMedia/for_islammedia.txt",
+		"/C/xampp/htdocs/IslamMedia/for_islammedia2.txt",
+		"/C/ProgrammingHub/Mine/Web_Apps/IslamMedia/IslamMedia PHP/signin.php",
+		"/C/MCBAYSEL_TASK_FOR_ABDUL/check_result.html",
+		"/C/MCBAYSEL_TASK_FOR_ABDUL/loan_processing(abdulraheem).html",
+		"/C/ProgrammingHub/Mine/Web_Apps/IslamMedia/IslamMedia PHP/connection.php",
+		"/C/ProgrammingHub/Mine/Web_Apps/IslamMedia/IslamMedia PHP/session.php",
+		"/C/xampp/htdocs/IslamMedia/css/eidfbenvnejvnervnrej1.css",
+		"/C/ProgrammingHub/Tutorials/W3Schools Offline Latest 2018 [Clone by Md Maruf Adnan Sami]/xml/note.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/DmlAdemola/ProgrammingHub/Others/Islammedia-offline/index-2.html",
+		"/C/ProgrammingHub/Serverside/exam/getlogin.php",
+		"/C/ProgrammingHub/Serverside/exam/getregister.php",
+		"/C/ProgrammingHub/Serverside/exam/index.php",
+		"/C/DmlAdemola/MCBAYSEL_TASK_FOR_ABDUL/check_result.html",
+		"/C/DmlAdemola/ProgrammingHub/Mine/Training Project/module1.py",
+		"/C/DmlAdemola/MCBAYSEL_TASK_FOR_ABDUL/countdown.html",
+		"/C/DmlAdemola/ProgrammingHub/Mine/Training Project/server.py",
+		"/C/DmlAdemola/ProgrammingHub/Mine/Training Project/demo.py",
+		"/C/DmlAdemola/ProgrammingHub/Others/Test/localhost/islammedia/index.html",
+		"/C/DmlAdemola/ProgrammingHub/Others/Test/index.html",
+		"/C/DmlAdemola/ProgrammingHub/Others/Test/hts-cache/new.txt",
+		"/C/Users/lenovo/Documents/Web/contact.php",
+		"/C/DmlAdemola/ProgrammingHub/Mine/Training Project/countdown.html",
+		"/C/xampp/htdocs/IslamMedia/header.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$stmt",
+			"$sql",
+			"$conn",
+			"final",
+			"$conn",
+			"sql",
+			"final_san",
+			"connectio",
+			"$sql"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
